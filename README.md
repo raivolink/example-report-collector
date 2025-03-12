@@ -4,7 +4,7 @@
 
 ### Prerequisites
 
-- API key with accesses as [on this image](C:\Users\Raivo\Documents\GitHub\robot-examples\example-report-collector\doc\images\api_access.png)
+- API key with accesses as [on this image](.\doc\images\api_access.png)
 - Vault secret `ProcessAPI` with the following keys:
   - apikey
   - workspace_id
