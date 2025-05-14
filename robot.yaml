@@ -3,7 +3,7 @@
 
 tasks:
   Get Failed Run Info:
-    shell: python -m robocorp.tasks run analyze_and_prepare.py -t analyze_and_setup
+    shell: python -m robocorp.tasks run analyze_and_prepare.py -t analyze_and_setups
 
   Collect Failed Run Data:
     shell: python -m robocorp.tasks run collect_reports.py -t collect_failed_run_reports
